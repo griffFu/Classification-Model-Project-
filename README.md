@@ -9,9 +9,13 @@ Main Results from this project.
 
 
 Appendix for Files
-platform_tweets.csv - collection of tweets from @Thedemocracts, @harrisonjaime, @GOP, @ GOPchairwoman
+platform_tweets.csv - collection of tweets from @Thedemocracts, @harrisonjaime, @GOP, @GOPchairwoman
+
 tweetcollection_v4.csv - collection of tweets from every senator from the start of the 117th congress
+
 Sen_rate_2.csv - Accuracy rates found for senators from BERT model
-Govtrack_final.csv - THe accuracy rate from the Gov Track ideology rankings for the 116th congress.
+
+Govtrack_final.csv - The accuracy rate from the Gov Track ideology rankings for the 116th congress.
+
 Model_final.csv - This file gives the senator ranks based on most republican to least republican. 
 
